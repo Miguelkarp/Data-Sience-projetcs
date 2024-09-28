@@ -9,13 +9,13 @@
 * Data manipulation.
     As this is the basic of the ML-models, many projects here will have problem related to data structure and his solves.
 
-  ## About me
+## About me
   Im a physics graduate, this means that all my procedures have the cientific rigor demanded in theorical and experimental physics, just like my procedures, following these ideas i try to keep the explanation of te problem in a formal and accesible way to anyone.
 
-  ## Comments
+ ## Comments
 
   Feel free to make any comment in the Issues section, i will be happy to discuss any of my ideas with everyone. Im here to collaborate and learn.
 
-  ## Contact
+ ## Contact
 
   
