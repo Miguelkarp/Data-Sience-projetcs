@@ -6,7 +6,7 @@
    Tipically Phyton, as this is the most implement language to solve datarelated issues.
 * Machine Learning models.
   Focused on different matemathical and physical models. Although also topics such as finance, traffic flow and else.
-  * Data manipulation.
+* Data manipulation.
     As this is the basic of the ML-models, many projects here will have problem related to data structure and his solves.
 
   ## About me
